@@ -1,0 +1,35 @@
+We welcome all inquiries.
+
+Please be sure to provide your business email, postal address and phone number.
+
+
+VG FRESH Exports
+PO Box 72, Brisbane Markets
+Rocklea, Brisbane Qld 4106
+PHONE: 07 3379 9730
+FAX: 07 3379 9725
+
+Email us: enquiries@vgfresh.com.au
+
+CHOOSE SUBJECT *
+https://exportfresh.com.au/contact-enquiry-location
+
+
+Full Name
+Email Address
+Phone Number
+Message
+Country
+
+
+Product/s Interested In
+-Fruits
+-Vegetables
+
+
+Would you like to get weekly updates on Export Fresh & Petite Bouche products. *
+YES
+NO
+
+MAIL_USERNAME=freshexport.order@gmail.com
+MAIL_PASSWORD=freshExport@123

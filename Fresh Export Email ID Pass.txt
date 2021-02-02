@@ -1,0 +1,2 @@
+MAIL_USERNAME=freshexport.order@gmail.com
+MAIL_PASSWORD=freshExport@123

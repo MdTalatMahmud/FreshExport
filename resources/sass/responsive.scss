@@ -1,0 +1,124 @@
+
+@media (max-width:576px){
+    #main-slider-section .slider-text {
+        padding-top: 66px !important;
+    }
+    
+    #main-slider-section .slider-text h1 {
+        font-size: 30px !important;
+    }
+    #main-slider-section .slider-btn {
+        font-size: 15px !important;
+    }
+    
+    #main-slider-section .slider-btn {
+        font-size: 16px;
+        padding: 0rem 0.4rem !important;
+    }
+    #main-slider-section .slider-title {
+        margin-top: 25px !important;
+        font-size: 15px !important;
+    }
+    #main-slider-section .slider-content {
+        margin-bottom: 15px !important;
+    }
+    .margin-top {
+        margin-top: 5px !important;
+    }
+    .fea-d-s-block .fea-hr {
+        left: 42%;
+    }
+    .last-footer {
+        padding-top: 16px;
+    }
+    .last-footer p {
+        padding-top: 0px !important;
+    }
+    
+}
+@media (max-width:768px){
+    .mobile-center {
+        text-align: center;
+    }
+    .mobile-center p {
+        text-align: center;
+    }
+    #main-slider-section .slider-text h1 {
+        font-size: 40px;
+    }
+    #main-slider-section .slider-btn {
+        font-size: 16px;
+        padding: .375rem 0.4rem !important;
+    }
+    .fea-d-s-block {
+        text-align: left;
+    }
+    .fea-d-s-block .fea-hr {
+        left: 6.4%;
+    }
+    .owl-carousel .owl-item.owl-partner img {
+       max-width: 160px;
+       max-height: 160px;
+    }
+    .left-block {
+        padding-left: 0 !important;
+    }
+    .page-about ul {
+        padding-left: 20px;
+    }
+    .pro-cat ul {
+        padding-left: 20px;
+    }
+    .fruit-vege-header .fea-hr {
+        left: 0%;
+        top: 16%;
+    }
+    .fruit-vege-header {
+        text-align: left;
+    }
+    .fruit-vege-header p {
+        text-align: left;
+        width: 100%;
+    }
+     
+    .need-exp-top .fea-hr {
+            left: 0%;
+            top: 52%;
+        }
+    
+}
+@media (max-width:992px){
+    .mobile-menu {
+        position: fixed;
+        top: 7px;
+        left: 0;
+        height: 100vh;
+        transform: translateX(-100%);
+        transition: all ease 0.3s;
+        width: 100vw;
+        background: #1e342c;
+        z-index: 999;
+    }
+    .mobile-menu .nav-item {
+            margin: 10px 15px;
+    }
+    .mobile-menu.open-slide {
+        transform: translateX(0);
+    }
+    .m-nai {
+        display: none;
+    }
+    .left-block {
+        padding-left: 48px;
+    }
+    .fa-bars {
+        color: #f1f1f1;
+    }
+    .navbar-toggler:hover, .navbar-toggler:focus, .navbar-toggler:active {
+        border: 0 !important;
+        outline: 0 !important;
+    }
+    .navbar-light .navbar-toggler-icon {
+        background: transparent !important;
+    }
+}
